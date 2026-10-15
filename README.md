@@ -1,16 +1,34 @@
-## Hi there 👋
+Hi, I'm Nicole 👋
+Data Analytics | SQL | Python | Business Intelligence
 
-<!--
-**NicolePruijssers/NicolePruijssers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a data professional interested in transforming raw data into meaningful insights through data analysis, structured querying, and data-driven problem-solving.
 
-Here are some ideas to get you started:
+🔧 Technical Skills
+Programming: Python, SQL
+Data analysis: Data cleaning, exploratory data analysis, data transformation
+Data engineering: creating effective dataflows and pipelines
+Data science: Predictive modelling and simulation
+Tools: Add the databases, visualization platforms, and development tools you have actually used
+📊 Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1. SQL Data Modelling and Analysis
+
+Design and transform relational datasets.
+Explore data relationships and analytical queries.
+Demonstrate data integrity and maintainable SQL.
+
+2. Medical Risk Analysis
+
+Explore relationships between variables in a health-related dataset.
+Document the data preparation, analytical approach, and findings.
+Explain limitations and avoid overstating predictive conclusions.
+
+3. Predictive Modelling
+
+Investigate a real-world prediction problem.
+Document model selection, validation, evaluation metrics, and limitations.
+🎯 What I'm Working Towards
+
+Building reliable data workflows, improving analytical skills, and communicating insights clearly to support better decisions.
+
+📫 Connect with me on LinkedIn
