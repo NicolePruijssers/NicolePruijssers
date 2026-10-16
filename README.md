@@ -8,7 +8,7 @@ Programming: Python, SQL
 Data analysis: Data cleaning, exploratory data analysis, data transformation
 Data engineering: creating effective dataflows and pipelines
 Data science: Predictive modelling and simulation
-Tools: Add the databases, visualization platforms, and development tools you have actually used
+
 📊 Featured Projects
 
 1. SQL Data Modelling and Analysis
