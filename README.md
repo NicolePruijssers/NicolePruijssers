@@ -27,8 +27,6 @@ Explain limitations and avoid overstating predictive conclusions.
 
 Investigate a real-world prediction problem.
 Document model selection, validation, evaluation metrics, and limitations.
-🎯 What I'm Working Towards
 
-Building reliable data workflows, improving analytical skills, and communicating insights clearly to support better decisions.
 
 📫 Connect with me on LinkedIn
