@@ -5,8 +5,11 @@ I'm a data professional interested in transforming raw data into meaningful insi
 
 🔧 Technical Skills
 Programming: Python, SQL
+
 Data analysis: Data cleaning, exploratory data analysis, data transformation
+
 Data engineering: creating effective dataflows and pipelines
+
 Data science: Predictive modelling and simulation
 
 📊 Featured Projects
